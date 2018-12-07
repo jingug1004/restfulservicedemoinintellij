@@ -1,4 +1,4 @@
-package com.example.restfulservicedemoinintellij;
+package com.example.restful;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
